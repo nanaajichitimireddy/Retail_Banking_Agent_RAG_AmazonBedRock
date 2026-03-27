@@ -1,4 +1,4 @@
-﻿# Retail Banking Agent - Amazon Bedrock Architecture
+﻿# Retail Banking Agent - Using RAG and Amazon Bedrock
 <img width="1589" height="795" alt="Retail_bank_agent" src="https://github.com/user-attachments/assets/9cf61c89-3e12-48bb-870e-7b7dadfc83dc" />
 
 ## Overview
